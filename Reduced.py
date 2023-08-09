@@ -27,8 +27,8 @@ CONNECTION_STRING = f"""
  """
 TABLES = [
     #"systempowerconsumption"
-    #"voltagereading"
-    "temperaturereading"
+    "voltagereading"
+    #"temperaturereading"
     ]
 def main():
     #start_time = end_time - timedelta(days=TIMEINTERVAL)
